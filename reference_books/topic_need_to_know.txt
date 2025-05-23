@@ -1,0 +1,3 @@
+Probability and information chapter 6 -10;
+Introduction to Probability Models - Marchov chain and the moment generating functions
+Ellipse and Mutivariable Gaussian Distribution
